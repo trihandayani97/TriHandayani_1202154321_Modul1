@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="title_name">Makan Malam</string>
+    <string name="sub_title">dengan Milea</string>
+    <string name="abnormal">Abnormal</string>
+    <string name="eatbus">Eatbus</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="jumlah_porsi">Jumlah Porsi</string>
+    <string name="lbl_menu">Menu</string>
+    <string name="lbl_porsi">Porsi</string>
+    <string name="lbl_harga">Harga</string>
+</resources>
